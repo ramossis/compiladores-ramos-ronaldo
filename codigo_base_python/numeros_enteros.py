@@ -55,4 +55,4 @@ def tokenizar_enteros(codigo):
 
 # Prueba con flujo de código
 codigo_fuente = "tono base = 125; tono vueltas= -087;"
-print(tokenizar_reales(codigo_fuente))
+print(tokenizar_enteroscodigo_fuente))
